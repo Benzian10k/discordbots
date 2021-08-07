@@ -1,0 +1,14 @@
+{
+  "Botname": "ʙᴇɴᴢɪᴀɴ乂",
+  "Botowner": "728354001552146452",
+  "Botpassword": "iloveyoudad",
+  "Botport": 9646,
+  "BotPrefixMaxCharcters": 5,
+  "Botscope": "8",
+  "Botstatus": "idle",
+  "Botsupportserver": "https://discord.gg/qJkMtq8mnC",
+  "Defaultprefix": "b?",
+  "Defaultwelcomeimage": "https://media.discordapp.net/attachments/871817687175688312/872064625259208734/welcome.png",
+  "Defaultjoinmessage": "Welcome {member:mention}! We now have {server:members} member!",
+  "Defaultleavemessage": "😢 {member:name} just left the server... We are down to {server:members} members..."
+}

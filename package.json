@@ -1,0 +1,35 @@
+{
+  "name": "Benzian10k",
+  "version": "1.0.0",
+  "description": "A mongoDB DiscordBOT maded by me!",
+  "main": "DiscordBOT.js",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.21.1",
+    "currency-system": "^2.6.19",
+    "discord-buttons": "^4.0.0",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "moments": "^0.0.2",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.5",
+    "ms": "^2.1.3",
+    "random-code-gen": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benzian10k/Benzian10k.git"
+  },
+  "keywords": [],
+  "author": "Benzian10k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benzian10k/Benzian10k/issues"
+  },
+  "homepage": "https://github.com/Benzian10k/Benzian10k#readme"
+}
