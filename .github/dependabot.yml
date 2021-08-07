@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    reviewers:
+      - "ryan-harrington"
+    assignees:
+      - "ryan-harrington"
+    target-branch: "dev"
+    labels:
+      - "priority: medium"
+      - "dependencies"
